@@ -5,8 +5,8 @@
 AI-powered meeting recorder with automatic transcription and intelligent note generation. All processing happens locally - 100% private!
 
 
+<!-- ![Meeting Notes Pro](screenshot.png) -->
 
-![Meeting Notes Pro](screenshot.png)
 
 
 \## ✨ Features
