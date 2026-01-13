@@ -6,7 +6,7 @@ AI-powered meeting recorder with automatic transcription and intelligent note ge
 
 
 
-!\[Meeting Notes Pro](screenshot.png)
+ #!\[Meeting Notes Pro](screenshot.png) 
 
 
 
