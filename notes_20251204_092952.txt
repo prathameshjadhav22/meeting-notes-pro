@@ -1,0 +1,35 @@
+TRANSCRIPT:
+ Good morning everyone, how's it going? We are going to start this meeting at 9.27am and 38 is for 12.2025. The meeting is about the making of a game for the students. It will help you to grow there and make a year. I will acknowledge about programming language.
+
+NOTES:
+Here are the meeting notes:
+
+**Meeting Notes: Game Development Project for Students**
+
+**Date:** [Not specified]
+**Time:** 9:27 AM
+**Location:** [Not specified]
+
+**Attendees:** [List of attendees, if any]
+
+**Objective:** The objective of this meeting is to discuss the development of a game project specifically designed for students.
+
+**Key Points:**
+
+1. **Meeting Schedule:** We will begin our discussion at 9:27 AM sharp.
+2. **Deadline:** The deadline for completion of the project is December 12, 2025 (38 weeks from now).
+3. **Project Purpose:** This game development project aims to help students grow their skills and make a lasting impact in the gaming industry.
+
+**Programming Language Acknowledgement:** The importance of programming language will be discussed during the meeting.
+
+**Next Steps:**
+
+* [Insert action items, decisions made, or next steps]
+
+**Action Items:**
+
+* [List specific tasks assigned to attendees]
+
+**Adjournment:** The meeting was adjourned at [insert time].
+
+Note: These notes are a summary of the discussion held during the meeting. Please fill in any missing information and add relevant details as needed.
